@@ -52,7 +52,7 @@ The Airtable base consists of **five tables**:
 - `Score Reason` (Long text)
 - `Created At` (Created time, auto)
 
-🔗 Airtable Base Link: [View Airtable Base](https://airtable.com/)  
+🔗 Airtable Base Link: [View Airtable Base](https://airtable.com/applUQgYaEt2eakbk/shrJ4cyjTmO4qobje/tblniGePEhPWb6jgA/viwg3melEvg7CCIoe)  
 
 ---
 
@@ -110,8 +110,8 @@ python main.py
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/your-username/mercor-airtable-exercise.git
-cd mercor-airtable-exercise
+git clone https://github.com/vaibhav1881/mercor.git
+cd mercor
 ```
 
 ### 2. Create Virtual Environment
@@ -184,8 +184,8 @@ OPENAI_API_KEY=your_openai_api_key
 2. Python scripts for compression, decompression, shortlisting, LLM enrichment.  
 3. Documentation (this README.md).  
 
-🔗 GitHub Repo: [https://github.com/your-username/mercor-airtable-exercise](https://github.com/your-username/mercor-airtable-exercise)  
-🔗 Airtable Base: [https://airtable.com/](https://airtable.com/)  
+🔗 GitHub Repo: [https://github.com/vaibhav1881/mercor.git](https://github.com/vaibhav1881/mercor.git)  
+🔗 Airtable Base: [https://airtable.com/applUQgYaEt2eakbk/shrJ4cyjTmO4qobje/tblniGePEhPWb6jgA/viwg3melEvg7CCIoe](https://airtable.com/)  
 
 ---
 
