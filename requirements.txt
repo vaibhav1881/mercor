@@ -1,0 +1,4 @@
+python-dotenv
+requests
+airtable-python-wrapper
+google-generativeai
